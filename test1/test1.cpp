@@ -8,6 +8,8 @@ int main()
 {
 	printf("本地上传");
 	printf("修改01");
+	printf("修改后更新到远程");
+
 	return 0;
 }
 
